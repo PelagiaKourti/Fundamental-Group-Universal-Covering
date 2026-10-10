@@ -5,7 +5,7 @@ Department of Mathematics, Aristotle University of Thessaloniki, January 2024.
 Written in Greek.
 
 **Author:** Pelagia Kourti
-- 📄 [PDF](./Fundamental_Group_Universal_Covering.pdf)
+- 📄 [PDF](./Fundamental_group_Universal_Covering.pdf)
 
 ## Summary
 
