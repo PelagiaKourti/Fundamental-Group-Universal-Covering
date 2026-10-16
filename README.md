@@ -2,10 +2,9 @@
 
 Course project for **Differentiable Manifolds** (MSc in Theoretical Mathematics),
 Department of Mathematics, Aristotle University of Thessaloniki, January 2024.
-Written in Greek.
 
 **Author:** Pelagia Kourti
-- 📄 [PDF](./Fundamental_group_Universal_Covering.pdf)
+- 📄 [PDF](./Fundamental_group_Universal_Covering.pdf) Written in Greek.
 
 ## Summary
 
@@ -21,6 +20,14 @@ The project develops the theory of the fundamental group and of covering spaces:
 - **Universal covering:** existence and uniqueness of the universal covering space.
 - **Universal covering and the fundamental group:** the isomorphism π₁(Y) ≅ Deck(X → Y),
   and finiteness of π₁ for spaces with compact universal cover.
+
+
+## Related
+
+The categorical framework developed in §4 is the same language used in my MSc thesis,
+[*Geometry of Quantum Computing*](MSc-Thesis-Quantum-Computing), where ZX-calculus rewrite rules are related
+to the axioms of Hopf algebras.
+
 
 ## References
 
